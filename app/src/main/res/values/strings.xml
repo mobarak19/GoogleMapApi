@@ -1,0 +1,4 @@
+<resources>
+    <string name="google_map_API_key">AIzaSyADNFGxkCYEV-v8rbfdwHwuTcIcsV2Xuyg</string>
+    <string name="app_name">GoogleMapApi</string>
+</resources>
